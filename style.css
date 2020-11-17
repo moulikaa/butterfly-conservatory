@@ -1,15 +1,21 @@
 .butterfly {
-	background: pink;
+	background: mistyrose;
 	padding: 1rem;
 }
 
-.postcard{
+.postcard {
 	background-image: url('images/botanical-gardens.jpg');
-	font-size: 5rem;
+	font-size: 2rem;
+	font-weight: bold;
 	color: white;
 	max-width: 50%;
 	text-align: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 4rem;
+}
+
+.my-butterfly {
+	max-height: 25%;
+	max-width: 25%;
 }
